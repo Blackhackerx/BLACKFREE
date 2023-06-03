@@ -1,7 +1,7 @@
 # BLACKFREE
 
-git clone https://github.com/Blackhackerx/BLACKFREE
+git clone https://github.com/Blachackerx/BLACKFREE
 
 cd BLACKFREE
 
-python BLACKFREE.py
+python BLACFREE.py
